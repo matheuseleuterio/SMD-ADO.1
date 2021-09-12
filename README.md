@@ -1,2 +1,2 @@
 # SMD-ADO.1
-https://snack.expo.dev/f813dr_M7
+https://snack.expo.dev/@matheus.ecustodio/ado-1
